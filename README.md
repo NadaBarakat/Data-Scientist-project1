@@ -11,9 +11,9 @@
 ## Project Motivation <a name="motivation"></a>
 
 This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
- 1- What is the most used platform in US [2017-2021]?
- 2- What is the most wanted platform in US [2017-2021]?
- 3- What is the most wanted platform for students in US [2017-2021]?
+ 1- What is the most used platform in US [2017-2021]? </br>
+ 2- What is the most wanted platform in US [2017-2021]? </br>
+ 3- What is the most wanted platform for students in US [2017-2021]? </br>
  
 ## File Description <a name="files"></a>
 
