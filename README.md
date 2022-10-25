@@ -17,7 +17,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
  
 ## File Description <a name="files"></a>
 
-**BlogPost_Prj1.ipynb.ipynb**: Notebook containing the data analysis. </br>
+**BlogPost_Prj1.ipynb**: Notebook containing the data analysis. </br>
 **survey_results_public17**</br>
 **survey_results_public21**</br>
 
